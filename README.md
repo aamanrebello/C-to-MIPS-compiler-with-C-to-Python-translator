@@ -18,6 +18,7 @@ both functionalities (these test cases are also included).
 -
   1. [Flex](https://github.com/westes/flex), the fast lexical analyzer generator.
   2. [GNU Bison](https://www.gnu.org/software/bison/), is used as parser.
+  3. A C++ compiler e.g. [g++](https://www.cprogramming.com/g++.html)
 
   The compiler is intended to run on a *Linux* OS e.g. Ubuntu.
 
