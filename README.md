@@ -7,7 +7,7 @@ This software, written in C++, serves two functions:
  1. It can compile an input C90 (ANSI) program to MIPS1 assembly
  2. It can also translate this program to the Python3 equivalent.
 
-It conforms to [This spec](https://github.com/LangProc/langproc-2019-cw). All
+It conforms to [this spec](https://github.com/LangProc/langproc-2019-cw). All
 specified features are covered.
 
 Also included are bash scripts to run the compiler against sets of test programs for
