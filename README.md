@@ -53,5 +53,6 @@ This project was done as part of a college assessment in a group of 2 - co-autho
 
 **5. Acknowledgements**
 -
-Around 80% of the test cases are provided by (John Wickerson)[https://github.com/johnwickerson], and were of great help in compiler verification. The authors added more complicated tests on top of these.
-We are very grateful to (johnwickerson)[https://github.com/johnwickerson], (m8pple)[https://github.com/m8pple], (Yann Herklotz)[https://github.com/ymherklotz], (tobhil98)[https://github.com/tobhil98] for their guidance in building the compiler, which we did our best to follow.
+Around 80% of the test cases are provided by [John Wickerson](https://github.com/johnwickerson), and were of great help in compiler verification. The authors added more complicated tests on top of these.
+
+We are very grateful to [johnwickerson](https://github.com/johnwickerson), [m8pple](https://github.com/m8pple), [Yann Herklotz](https://github.com/ymherklotz), [tobhil98](https://github.com/tobhil98) for their guidance in building the compiler, which we did our best to follow.
