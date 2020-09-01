@@ -48,4 +48,10 @@ Build will take a little bit of time.
 
 **4. Additional Information**
 -
-This project was done as part of a college assessment in a group of 2. It conforms to [this spec](https://github.com/LangProc/langproc-2019-cw), but the implementation is original work of the authors.
+This project was done as part of a college assessment in a group of 2 - co-authored with Shafir360. It conforms to [this spec](https://github.com/LangProc/langproc-2019-cw), but the implementation is original work of the authors.
+
+
+**5. Acknowledgements**
+-
+Around 80% of the test cases are provided by (John Wickerson)[https://github.com/johnwickerson], and were of great help in compiler verification. The authors added more complicated tests on top of these.
+We are very grateful to (johnwickerson)[https://github.com/johnwickerson], (m8pple)[https://github.com/m8pple], (Yann Herklotz)[https://github.com/ymherklotz], (tobhil98)[https://github.com/tobhil98] for their guidance in building the compiler, which we did our best to follow.
