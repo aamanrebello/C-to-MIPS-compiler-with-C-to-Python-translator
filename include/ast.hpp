@@ -124,7 +124,7 @@ void resetmap(std::map<std::string, Type>& oldv, std::map<std::string, Type>& vt
   }
 }
 
-// Helper functions tha are defined and explained in src/helperfunctions.cpp
+// Helper functions that are defined and explained in src/helperfunctions.cpp
 void assignment(int addr, int sp_off, std::string type, std::ostream& os);
 void gvassign(std::string vname, std::string type, std::ostream& os);
 void stpushreg(std::string reg, std::ostream& os);
