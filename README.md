@@ -1,5 +1,4 @@
 # C-to-MIPS-compiler-with-C-to-Python-translator
-----
 
 **1. The Project**
 -
